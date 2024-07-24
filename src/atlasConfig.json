@@ -1,0 +1,9 @@
+{
+    "appId": "application-1-hhsmwpd",
+    "appUrl": "https://services.cloud.mongodb.com/groups/64e50c41e1e3fc34ccc9a114/apps/66a1632b909eee769b4cfdb9",
+    "baseUrl": "https://services.cloud.mongodb.com",
+    "clientApiBaseUrl": "https://eu-central-1.aws.services.cloud.mongodb.com",
+    "dataApiBaseUrl": "https://eu-central-1.aws.data.mongodb-api.com",
+    "dataExplorerLink": "https://cloud.mongodb.com/links/64e50c41e1e3fc34ccc9a114/explorer/myAtlasClusterEDU/database/collection/find",
+    "dataSourceName": "mongodb-atlas"
+}
